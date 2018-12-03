@@ -11,6 +11,11 @@ Records: SQL for Humans™
 .. image:: https://img.shields.io/badge/SayThanks.io-☼-1EAEDB.svg
     :target: https://saythanks.io/to/kennethreitz
 
+.. image:: https://img.shields.io/badge/SayThanks.io-☼-1EAEDB.svg
+    :target: https://saythanks.io/to/kennethreitz
+
+.. image:: https://codecov.io/gh/thomasrockhu/records/branch/master/graphs/badge.svg?style=flat
+    :target: https://codecov.io/gh/thomasrockhu/records/
 
 
 **Records is a very simple, but powerful, library for making raw SQL queries
